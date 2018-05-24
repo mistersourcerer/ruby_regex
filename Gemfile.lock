@@ -14,3 +14,6 @@ PLATFORMS
 
 DEPENDENCIES
   ruby_regex!
+
+BUNDLED WITH
+   1.16.1
