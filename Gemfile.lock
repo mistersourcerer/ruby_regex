@@ -3,11 +3,15 @@ PATH
   specs:
     ruby_regex (0.1.1)
       rake
+      test-unit
 
 GEM
   remote: https://rubygems.org/
   specs:
-    rake (10.1.1)
+    power_assert (1.1.1)
+    rake (12.3.0)
+    test-unit (3.2.7)
+      power_assert
 
 PLATFORMS
   ruby
