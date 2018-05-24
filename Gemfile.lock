@@ -2,7 +2,7 @@ PATH
   remote: .
   specs:
     ruby_regex (0.1.1)
-      rake
+      rake (>= 10.1.1)
       test-unit
 
 GEM
