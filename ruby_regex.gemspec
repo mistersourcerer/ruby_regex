@@ -16,4 +16,5 @@ Gem::Specification.new do |s|
   s.test_files = ["test/ruby_regex_test.rb", "test/fixtures/emails.yml"]
   s.files = ["CHANGELOG", "README.rdoc", "LICENSE", "lib/ruby_regex.rb"]
   s.add_dependency "rake"
+  s.add_dependency "test-unit"
 end
