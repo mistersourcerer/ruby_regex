@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    ruby_regex (0.1.1)
+    ruby_regex (0.1.2)
       rake
       test-unit
 
@@ -20,4 +20,4 @@ DEPENDENCIES
   ruby_regex!
 
 BUNDLED WITH
-   1.16.1
+   1.16.2
